@@ -1,0 +1,6 @@
+Dimension,Current_Score,Dept_Target,Status
+Accuracy,93.43%,< 1.0% Error Rate,FAIL
+Completeness (HB 2067),97.85%,100% (No Nulls),FAIL
+Consistency (PC vs BC),204,0 Discrepancies,FAIL
+Integrity (Orphans),20,0 Orphans,FAIL
+Validity (VIN Format),94.71%,100%,FAIL
