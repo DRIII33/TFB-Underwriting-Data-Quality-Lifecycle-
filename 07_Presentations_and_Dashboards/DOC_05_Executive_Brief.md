@@ -1,9 +1,13 @@
 # Executive Brief: End-to-End Data Quality Lifecycle – Olos Release & HB 2067 Readiness
 
-**To:** Data Governance Committee, Texas Farm Bureau  
+**To:** Data Governance Committee, Texas Farm Bureau
+
 **From:** Underwriting Data Office
+
 **Author:** Daniel Rodriguez III - Data Quality Analyst II
+
 **Subject:** Statutory Compliance and System Integrity Assessment of the Guidewire Olos Release  
+
 
 ---
 
